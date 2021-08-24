@@ -5,5 +5,5 @@ int main(){
   printf("Sequências\v de\v Escape\n\n");//Tabulação Vertical
   printf("Sequências de Escape\b \n\n");//Backspace
   printf("Sequências de Escape\a"); //Som de alerta
-  return 0;
+  return 0; 
 }
